@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/online-advertisment-platform/static/css/main.a617e044.chunk.css",
+    "main.js": "/online-advertisment-platform/static/js/main.c1c6584b.chunk.js",
+    "main.js.map": "/online-advertisment-platform/static/js/main.c1c6584b.chunk.js.map",
+    "runtime-main.js": "/online-advertisment-platform/static/js/runtime-main.a6bab01f.js",
+    "runtime-main.js.map": "/online-advertisment-platform/static/js/runtime-main.a6bab01f.js.map",
+    "static/js/2.bb65a934.chunk.js": "/online-advertisment-platform/static/js/2.bb65a934.chunk.js",
+    "static/js/2.bb65a934.chunk.js.map": "/online-advertisment-platform/static/js/2.bb65a934.chunk.js.map",
+    "static/js/3.3805b53f.chunk.js": "/online-advertisment-platform/static/js/3.3805b53f.chunk.js",
+    "static/js/3.3805b53f.chunk.js.map": "/online-advertisment-platform/static/js/3.3805b53f.chunk.js.map",
+    "index.html": "/online-advertisment-platform/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/online-advertisment-platform/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bb65a934.chunk.js.LICENSE.txt": "/online-advertisment-platform/static/js/2.bb65a934.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/online-advertisment-platform/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6bab01f.js",
+    "static/js/2.bb65a934.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c1c6584b.chunk.js"
+  ]
+}
